@@ -3,7 +3,6 @@ import random
 import pygame
 import pygame.freetype
 
-
 pygame.init()
 screen = pygame.display.set_mode((900, 500))
 pygame.display.set_caption('Dino game')
